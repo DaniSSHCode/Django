@@ -1,10 +1,5 @@
-Login with UserName or Email Address with Password using JQuery Ajax. Django 2.0
 
-requeriments:
-      Python3+
-      virtualenv
- 
- steps:<h1><strong>Login with UserName or Email Address with Password using JQuery Ajax. Django 2.0
+<h1><strong>Login with UserName or Email Address with Password using JQuery Ajax. Django 2.0
 </strong><br></h1><br>
 <p>
 <strong>Requeriments:

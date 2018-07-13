@@ -8,9 +8,9 @@ requeriments:
 </strong><br></h1><br>
 <p>
 <strong>Requeriments:
-</strong>
-    Python3+
-      virtualenv
+</strong><br>
+    Python3+<br>
+      virtualenv<br>
       <br>
 <strong>Steps:
 </strong><br>
@@ -28,15 +28,6 @@ requeriments:
       Email: 'dsandoval.code@gmail.com'<br>
       Password: 'be_happy'<br>
       </p>
-      virtualenv -p python3 <name>
-      cd <name>
-      source bin/activate
-      pip install Django==2.0.7 
-      git clone https://github.com/DaniSSHCode/Django/new/master/basic_auth
-      cd basic_auth
-      python3 manage.py runserver
+
       
- Data:
-      Username: 'creator'
-      Email: 'dsandoval.code@gmail.com'
-      Password: 'be_happy'
+
